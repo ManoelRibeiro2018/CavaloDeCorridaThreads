@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manoel.ribeiro.neto\\source\\repos\\CavaloDeCorrida\\CavaloDeCorrida\\CavaloDeCorrida.csproj": {}
+    "C:\\Users\\manoel.ribeiro.neto\\Desktop\\CavaloDeCorridaThreads\\CavaloDeCorrida\\CavaloDeCorrida.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manoel.ribeiro.neto\\source\\repos\\CavaloDeCorrida\\CavaloDeCorrida\\CavaloDeCorrida.csproj": {
+    "C:\\Users\\manoel.ribeiro.neto\\Desktop\\CavaloDeCorridaThreads\\CavaloDeCorrida\\CavaloDeCorrida.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manoel.ribeiro.neto\\source\\repos\\CavaloDeCorrida\\CavaloDeCorrida\\CavaloDeCorrida.csproj",
+        "projectUniqueName": "C:\\Users\\manoel.ribeiro.neto\\Desktop\\CavaloDeCorridaThreads\\CavaloDeCorrida\\CavaloDeCorrida.csproj",
         "projectName": "CavaloDeCorrida",
-        "projectPath": "C:\\Users\\manoel.ribeiro.neto\\source\\repos\\CavaloDeCorrida\\CavaloDeCorrida\\CavaloDeCorrida.csproj",
+        "projectPath": "C:\\Users\\manoel.ribeiro.neto\\Desktop\\CavaloDeCorridaThreads\\CavaloDeCorrida\\CavaloDeCorrida.csproj",
         "packagesPath": "C:\\Users\\manoel.ribeiro.neto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manoel.ribeiro.neto\\source\\repos\\CavaloDeCorrida\\CavaloDeCorrida\\obj\\",
+        "outputPath": "C:\\Users\\manoel.ribeiro.neto\\Desktop\\CavaloDeCorridaThreads\\CavaloDeCorrida\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
